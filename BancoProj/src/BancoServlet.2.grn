@@ -1,0 +1,39 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.edu{Conta.java[Conta"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="39"/>
+      <y="38"/>
+   </type>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.edu{ContaPoupanca.java[ContaPoupanca"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="335"/>
+      <y="100"/>
+   </type>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.edu{ContaCorrente.java[ContaCorrente"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="370"/>
+      <y="281"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.generalization.GeneralizationPart"/>
+      <sourceType="=BancoServlet/src<br.ifpb.edu{ContaPoupanca.java[ContaPoupanca"/>
+      <targetType="=BancoServlet/src<br.ifpb.edu{Conta.java[Conta"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.generalization.GeneralizationPart"/>
+      <sourceType="=BancoServlet/src<br.ifpb.edu{ContaCorrente.java[ContaCorrente"/>
+      <targetType="=BancoServlet/src<br.ifpb.edu{Conta.java[Conta"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

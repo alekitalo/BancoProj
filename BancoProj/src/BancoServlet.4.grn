@@ -1,0 +1,39 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.tarifas{TarifaContaCorrente.java[TarifaContaCorrente"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="409"/>
+      <y="348"/>
+   </type>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.tarifas{Tarifa.java[Tarifa"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="31"/>
+      <y="146"/>
+   </type>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.tarifas{TarifaPoupanca.java[TarifaPoupanca"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="401"/>
+      <y="181"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.generalization.GeneralizationPart"/>
+      <sourceType="=BancoServlet/src<br.ifpb.tarifas{TarifaContaCorrente.java[TarifaContaCorrente"/>
+      <targetType="=BancoServlet/src<br.ifpb.tarifas{Tarifa.java[Tarifa"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.generalization.GeneralizationPart"/>
+      <sourceType="=BancoServlet/src<br.ifpb.tarifas{TarifaPoupanca.java[TarifaPoupanca"/>
+      <targetType="=BancoServlet/src<br.ifpb.tarifas{Tarifa.java[Tarifa"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

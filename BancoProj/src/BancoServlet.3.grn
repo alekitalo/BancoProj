@@ -1,0 +1,32 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.outros{Agencia.java[Agencia"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="540"/>
+      <y="221"/>
+   </type>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.outros{Cliente.java[Cliente"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="760"/>
+      <y="205"/>
+   </type>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.outros{Controlador.java[Controlador"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="977"/>
+      <y="189"/>
+   </type>
+   <type>
+      <name="=BancoServlet/src<br.ifpb.outros{Banco.java[Banco"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="5"/>
+      <y="58"/>
+   </type>
+</uml>
+
