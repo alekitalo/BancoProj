@@ -1,10 +1,10 @@
 /**
- * Este pacote conter√° todas as classes referentes ao primeiro milestone
+ * Este pacote conter· todas as classes referentes ao primeiro milestone
  */
 package br.ifpb.tarifas;
 
 /**
- * Esta interface permitir√° a cria√ß√£o de novos tipos de tarifas
+ * Esta interface permitir· a criaÁ„o de novos tipos de tarifas
  * @author iponts
  *
  */
@@ -95,12 +95,12 @@ public abstract class Tarifa {
 	}
 	
 	/**
-	 * Este metodo sobrescreve a fun√ß√£o toString com informa√ß√µes sobre a tarifa
+	 * Este metodo sobrescreve a funÁ„o toString com informaÁıes sobre a tarifa
 	 * @return Mensagem de retorno
 	 */
 	@Override
 	public String toString( ) {
-		return "Cobran√ßa CPMF: " + CPMF + " %.\nPercentual acrescido sobre dep√≥sito: " + percentualDeposito + "%.\nValor cobrado por extrato: R$" + valorExtrato + ".\n"; 
+		return "CobranÁa CPMF: " + CPMF + " %.\nPercentual acrescido sobre depÛsito: " + percentualDeposito + "%.\nValor cobrado por extrato: R$" + valorExtrato + ".\n"; 
 	}
 	
 }
